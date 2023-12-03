@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mukteswar
-- 👀 I’m interested in building a interactive website
-- 🌱 I’m currently learning python
+- 👀 I’m interested in building an interactive website
+- 🌱 I’m currently learning Java
 - 📫 you can mail me to collaborate with me-'mukteswar2021@gift.edu.in'
 
 <!---
